@@ -9,9 +9,9 @@ To write a program to predict the marks scored by a student using the simple lin
 
 ## Algorithm
 1. Get the independent variable X and dependent variable Y.
-2.Calculate the mean of the X -values and the mean of the Y -values.
-3.Find the slope m of the line of best fit using the formula.
-4.Obtain the straight line equation Y=mX+b and plot the scatterplot.
+2. Calculate the mean of the X -values and the mean of the Y -values.
+3. Find the slope m of the line of best fit using the formula.
+4. Obtain the straight line equation Y=mX+b and plot the scatterplot.
 
 ## Program:
 ```
